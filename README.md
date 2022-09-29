@@ -9,7 +9,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
 
-![Bathroom](renders/bathroom.png)
+<img src="renders/bathroom.png" width="80%" alt="Bathroom"/>
 
 ## Bedroom (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
