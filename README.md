@@ -21,7 +21,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 ![Bedroom](renders/bedroom.png)
 
-## Bathroom (wth Resources from [Poly Heaven](https://polyhaven.com))
+## Camera (wth Resources from [Poly Heaven](https://polyhaven.com))
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/camera.zip)
 
