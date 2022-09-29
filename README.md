@@ -1,7 +1,7 @@
 # LuisaRenderScenes
 Scenes for LuisaRender.
 
-## Bathroom (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+## Contemporary Bathroom (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/bathroom.zip)
 
@@ -51,9 +51,17 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 ![Kitchen](renders/spaceship.png)
 
+## Modern Hall (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/staircase2.zip)
 
-## Staircase (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+- Resolution: 1024x1024
+- Samples: 65536
+- Tonemapping: ACES (exposure = -0.5)
+
+![Kitchen](renders/staircase2.png)
+
+## The Wooden Staircase (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/staircase.zip)
 
@@ -63,7 +71,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 <img src="renders/staircase.png" width="60%" alt="Staircase"/>
 
-## Coffee (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+## Coffee Maker (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/coffee.zip)
 
@@ -73,7 +81,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 <img src="renders/coffee.png" width="70%" alt="Coffee"/>
 
-## Classroom (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+## Japanese Classroom (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/classroom.zip)
 
@@ -83,7 +91,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 <img src="renders/classroom.png" alt="Classroom"/>
 
-## Dining Room (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+## The Breakfast Room (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/dining-room.zip)
 
@@ -93,7 +101,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 <img src="renders/dining-room.png" alt="Dining Room"/>
 
-## Living Room (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+## The Grey & White Room (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/living-room.zip)
 
