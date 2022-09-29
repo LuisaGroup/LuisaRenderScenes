@@ -111,6 +111,16 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 <img src="renders/living-room.png" alt="Living Room"/>
 
+## The White Room (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/living-room-2.zip)
+
+- Resolution: 1280x720
+- Samples: 65536
+- Tonemapping: ACES (exposure = 0.5)
+
+<img src="renders/living-room-2.png" alt="Living Room"/>
+
 ## Glass of Water (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/glass-of-water.zip)
