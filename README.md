@@ -61,4 +61,4 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
 
-![Staircase](renders/staircase.png)
+<img src="renders/staircase.png" width="50%" alt="Staircase"/>
