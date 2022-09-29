@@ -21,5 +21,13 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 ![Bathroom](renders/bedroom.png)
 
+## Bathroom (wth Resources from [Poly Heaven](https://polyhaven.com))
 
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/camera.zip)
+
+- Resolution: 3840x2160
+- Samples: 65536
+- Tonemapping: Uncharted2
+
+![Camera](renders/camera.png)
 
