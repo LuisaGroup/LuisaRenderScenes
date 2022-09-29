@@ -58,8 +58,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Resolution: 1024x1024
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
-
-![Kitchen](renders/staircase2.png)
+- 
+<img src="renders/staircase2.png" width="80%" alt="Staircase2"/>
 
 ## The Wooden Staircase (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
