@@ -50,3 +50,15 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Tonemapping: Uncharted2
 
 ![Kitchen](renders/spaceship.png)
+
+
+
+## Staircase (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/staircase.zip)
+
+- Resolution: 1080x1920
+- Samples: 16384
+- Tonemapping: Uncharted2 (exposure = 0.5)
+
+![Staircase](renders/staircase.png)
