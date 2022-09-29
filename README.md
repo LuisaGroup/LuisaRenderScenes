@@ -120,3 +120,13 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Tonemapping: Uncharted2
 
 <img src="renders/glass-of-water.png" alt="Glass of Water"/>
+
+## Salle de bain (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/bathroom2.zip)
+
+- Resolution: 1280x720
+- Samples: 65536
+- Tonemapping: ACES (exposure = -0.5)
+
+<img src="renders/bathroom2.png" alt="Salle de bain"/>
