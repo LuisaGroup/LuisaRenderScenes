@@ -41,3 +41,12 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 ![Kitchen](renders/kitchen.png)
 
+## Spaceship (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/spaceship.zip)
+
+- Resolution: 1920x1080
+- Samples: 16384
+- Tonemapping: Uncharted2
+
+![Kitchen](renders/spaceship.png)
