@@ -119,7 +119,17 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: ACES (exposure = 0.5)
 
-<img src="renders/living-room-2.png" alt="Living Room"/>
+<img src="renders/living-room-2.png" alt="Living Room 2"/>
+
+## The Modern Living Room (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/living-room-3.zip)
+
+- Resolution: 1280x720
+- Samples: 65536
+- Tonemapping: ACES (exposure = 0.5)
+
+<img src="renders/living-room-3.png" alt="Living Room 3"/>
 
 ## Glass of Water (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
