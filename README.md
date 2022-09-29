@@ -19,7 +19,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
 
-![Bathroom](renders/bedroom.png)
+![Bedroom](renders/bedroom.png)
 
 ## Bathroom (wth Resources from [Poly Heaven](https://polyhaven.com))
 
@@ -30,4 +30,14 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Tonemapping: Uncharted2
 
 ![Camera](renders/camera.png)
+
+## Kitchen (from [Rendering Resources](https://benedikt-bitterli.me/resources))
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/kitchen.zip)
+
+- Resolution: 1280x720
+- Samples: 65536
+- Tonemapping: ACES (exposure = -0.5)
+
+![Kitchen](renders/kitchen.png)
 
