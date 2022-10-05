@@ -158,7 +158,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 - Resolution: 1920x1080
 - Samples: 16384
-- Tonemapping: ACES (exposure = +2.5)
+- Tonemapping: Uncharted2 (exposure = +2.5)
 
 > Note: the scene is not a perfect conversion yet but we are working hard to catch up with Cycles!
 
