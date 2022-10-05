@@ -150,3 +150,14 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Tonemapping: ACES (exposure = -0.5)
 
 <img src="renders/bathroom2.png" alt="Salle de bain"/>
+
+
+## Lone Monk (from [Blender Demo Files](https://download.blender.org/demo/cycles))
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/lone-monk.zip)
+
+- Resolution: 1920x1080
+- Samples: 16384
+- Tonemapping: ACES (exposure = +2.5)
+
+<img src="renders/lone-monk.png" alt="Lone Monk"/>
