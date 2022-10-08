@@ -156,9 +156,9 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/lone-monk.zip)
 
-- Resolution: 3840x2160
+- Resolution: 3840x2560
 - Samples: 16384
-- Tonemapping: Uncharted2 (exposure = +2)
+- Tonemapping: Uncharted2 (exposure = +0.5)
 
 > Note: the scene is not a perfect conversion yet but we are working hard to catch up with Cycles!
 
