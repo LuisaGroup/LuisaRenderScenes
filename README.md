@@ -158,8 +158,17 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 - Resolution: 6000x4000
 - Samples: 65536
-- Tonemapping: Uncharted2
-
-> Note: the scene is not a perfect conversion yet but we are working hard to catch up with Cycles!
+- Tonemapping: Uncharted2 (exposure = +1)
 
 <img src="renders/lone-monk.jpg" alt="Lone Monk"/>
+
+
+## Sky Texture Demo (from [Blender Demo Files](https://download.blender.org/demo/cycles))
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/sky-texture-demo.zip)
+
+- Resolution: 3840x2160
+- Samples: 1024
+- Tonemapping: Uncharted2 (exposure = +1)
+
+<img src="renders/sky-texture-demo.png" alt="Sky Texture Demo"/>
