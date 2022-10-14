@@ -1,6 +1,6 @@
 # LuisaRenderScenes
 
-Scenes for LuisaRender.
+Scenes for [LuisaRender](https://github.com/LuisaGroup/LuisaRender).
 
 ## Contemporary Bathroom (from [Rendering Resources](https://benedikt-bitterli.me/resources))
 
