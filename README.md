@@ -6,8 +6,8 @@ Scenes for [LuisaRender](https://github.com/LuisaGroup/LuisaRender).
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/bathroom.zip)
 
-- Author: [Mareck](http://www.blendswap.com/users/view/Mareck) (CC0)
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [Mareck](http://www.blendswap.com/users/view/Mareck) (CC0)
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1024x1024
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
@@ -18,8 +18,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/bedroom.zip)
 
-- Author: [SlykDrako](http://www.blendswap.com/user/SlykDrako) (CC0)
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [SlykDrako](http://www.blendswap.com/user/SlykDrako) (CC0)
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1280x720
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
@@ -30,7 +30,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/camera.zip)
 
-- Resources from [Poly Heaven](https://polyhaven.com) (CC0, see the contained `README.txt` for details)
+- Credit: All resources in the scene are from [Poly Heaven](https://polyhaven.com) (CC0, see the contained `README.txt` for the detail of each resource)
 - Resolution: 3840x2160
 - Samples: 65536
 - Tonemapping: Uncharted2
@@ -41,8 +41,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/kitchen.zip)
 
-- Author: [Jay-Artist](http://www.blendswap.com/user/Jay-Artist) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [Jay-Artist](http://www.blendswap.com/user/Jay-Artist) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1280x720
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
@@ -53,8 +53,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/spaceship.zip)
 
-- Author: [thecali](http://www.blendswap.com/user/thecali) (CC0)
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [thecali](http://www.blendswap.com/user/thecali) (CC0)
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1920x1080
 - Samples: 16384
 - Tonemapping: Uncharted2
@@ -65,8 +65,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/staircase2.zip)
 
-- Author: [NewSee2l035](http://www.blendswap.com/user/NewSee2l035) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [NewSee2l035](http://www.blendswap.com/user/NewSee2l035) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1024x1024
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
@@ -77,8 +77,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/staircase.zip)
 
-- Author: [Wig42](http://www.blendswap.com/users/view/Wig42) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [Wig42](http://www.blendswap.com/users/view/Wig42) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1080x1920
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
@@ -89,8 +89,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/coffee.zip)
 
-- Author: [cekuhnen](http://www.blendswap.com/user/cekuhnen) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [cekuhnen](http://www.blendswap.com/user/cekuhnen) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1200x1800
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
@@ -101,8 +101,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/classroom.zip)
 
-- Author: [NovaZeeke](http://www.blendswap.com/users/view/NovaZeeke) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [NovaZeeke](http://www.blendswap.com/users/view/NovaZeeke) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1920x1080
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
@@ -113,8 +113,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/dining-room.zip)
 
-- Author: [Wig42](http://www.blendswap.com/users/view/Wig42) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [Wig42](http://www.blendswap.com/users/view/Wig42) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1920x1080
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
@@ -125,8 +125,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/living-room.zip)
 
-- Author: [Wig42](http://www.blendswap.com/users/view/Wig42) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [Wig42](http://www.blendswap.com/users/view/Wig42) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1920x1080
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
@@ -137,8 +137,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/living-room-2.zip)
 
-- Author: [Jay-Artist](http://www.blendswap.com/user/Jay-Artist) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [Jay-Artist](http://www.blendswap.com/user/Jay-Artist) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1280x720
 - Samples: 65536
 - Tonemapping: ACES (exposure = 0.5)
@@ -149,8 +149,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/living-room-3.zip)
 
-- Author: [Wig42](http://www.blendswap.com/users/view/Wig42) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [Wig42](http://www.blendswap.com/users/view/Wig42) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1280x720
 - Samples: 65536
 - Tonemapping: ACES (exposure = 0.5)
@@ -161,8 +161,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/glass-of-water.zip)
 
-- Author: [aXel](http://www.blendswap.com/user/aXel) (CC0)
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [aXel](http://www.blendswap.com/user/aXel) (CC0)
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1920x1080
 - Samples: 16384
 - Tonemapping: Uncharted2
@@ -173,8 +173,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/bathroom2.zip)
 
-- Author: [nacimus](http://www.blendswap.com/users/view/nacimus) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
-- Converted from Tungsten version from [Rendering Resources](https://benedikt-bitterli.me/resources)
+- Credit: [nacimus](http://www.blendswap.com/users/view/nacimus) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
+- Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1280x720
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
@@ -186,8 +186,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/lone-monk.zip)
 
-- Author: Carlo Bergonzini / [Monorender](http://www.monorender.com) ([CC-BY](https://creativecommons.org/licenses/by/2.0/))
-- Converted from Blender Cycles format from [Blender Demo Files](https://download.blender.org/demo/cycles/lone-monk_cycles_and_exposure-node_demo.blend)
+- Credit: Carlo Bergonzini / [Monorender](http://www.monorender.com) ([CC-BY](https://creativecommons.org/licenses/by/2.0/))
+- Converted from Blender Cycles format at [Blender Demo Files](https://download.blender.org/demo/cycles/lone-monk_cycles_and_exposure-node_demo.blend)
 - Resolution: 6000x4000
 - Samples: 65536
 - Tonemapping: Uncharted2 (exposure = +1)
@@ -199,8 +199,8 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/sky-texture-demo.zip)
 
-- Author: Blender Studio (CC0)
-- Converted from Blender Cycles format from [Blender Demo Files](https://download.blender.org/demo/cycles/lone-monk_cycles_and_exposure-node_demo.blend)
+- Credit: Blender Studio (CC0)
+- Converted from Blender Cycles format at [Blender Demo Files](https://download.blender.org/demo/cycles/lone-monk_cycles_and_exposure-node_demo.blend)
 - Resolution: 3840x2160
 - Samples: 1024
 - Tonemapping: Uncharted2 (exposure = +1)
