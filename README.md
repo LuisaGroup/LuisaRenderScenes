@@ -45,7 +45,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1280x720
 - Samples: 65536
-- Tonemapping: ACES (exposure = -0.5)
+- Tonemapping: ACES
 
 ![Kitchen](renders/kitchen.png)
 
