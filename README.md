@@ -153,7 +153,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1280x720
 - Samples: 65536
-- Tonemapping: ACES (exposure = 0.5)
+- Tonemapping: Uncharted2
 
 <img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/living-room-3.png" alt="Living Room 3"/>
 
