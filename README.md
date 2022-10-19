@@ -206,3 +206,15 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Tonemapping: Uncharted2 (exposure = +1)
 
 <img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/sky-texture-demo.png" alt="Sky Texture Demo"/>
+
+
+## Bathroom Interior
+
+Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases/download/scenes/bathroom-interior.zip)
+
+- Credit: [Akshaykhedkar97](https://sketchfab.com/3d-models/bathroom-interior-7609ef43ffc04cc280f1525ffdc6d89a) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+- Resolution: 1920x1080
+- Samples: 1024
+- Tonemapping: Uncharted2 (exposure = +0.5)
+
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/bathroom-interior.png" alt="Sky Texture Demo"/>
