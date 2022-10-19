@@ -69,7 +69,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1024x1024
 - Samples: 65536
-- Tonemapping: ACES (exposure = -0.5)
+- Tonemapping: Uncharted2 (exposure = +1)
 
 <img src="renders/staircase2.png" width="80%" alt="Staircase2"/>
 
@@ -177,7 +177,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
 - Resolution: 1280x720
 - Samples: 65536
-- Tonemapping: ACES (exposure = -0.5)
+- Tonemapping: Uncharted2 (exposure = +1)
 
 <img src="renders/bathroom2.png" alt="Salle de bain"/>
 
