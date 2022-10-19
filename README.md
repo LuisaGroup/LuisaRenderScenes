@@ -12,7 +12,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
 
-<img src="renders/bathroom.png" width="80%" alt="Bathroom"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/bathroom.png" width="80%" alt="Bathroom"/>
 
 ## Bedroom
 
@@ -24,7 +24,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: ACES (exposure = -0.5)
 
-![Bedroom](renders/bedroom.png)
+![Bedroom](https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/bedroom.png)
 
 ## Camera
 
@@ -35,7 +35,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2
 
-![Camera](renders/camera.png)
+![Camera](https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/camera.png)
 
 ## Kitchen
 
@@ -47,7 +47,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: ACES
 
-![Kitchen](renders/kitchen.png)
+![Kitchen](https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/kitchen.png)
 
 ## Spaceship
 
@@ -59,7 +59,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2
 
-![Kitchen](renders/spaceship.png)
+![Kitchen](https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/spaceship.png)
 
 ## Modern Hall
 
@@ -71,7 +71,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2 (exposure = +1)
 
-<img src="renders/staircase2.png" width="80%" alt="Staircase2"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/staircase2.png" width="80%" alt="Staircase2"/>
 
 ## The Wooden Staircase
 
@@ -83,7 +83,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
 
-<img src="renders/staircase.png" width="60%" alt="Staircase"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/staircase.png" width="60%" alt="Staircase"/>
 
 ## Coffee Maker
 
@@ -95,7 +95,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
 
-<img src="renders/coffee.png" width="70%" alt="Coffee"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/coffee.png" width="70%" alt="Coffee"/>
 
 ## Japanese Classroom
 
@@ -107,7 +107,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
 
-<img src="renders/classroom.png" alt="Classroom"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/classroom.png" alt="Classroom"/>
 
 ## The Breakfast Room
 
@@ -119,7 +119,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
 
-<img src="renders/dining-room.png" alt="Dining Room"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/dining-room.png" alt="Dining Room"/>
 
 ## The Grey & White Room
 
@@ -131,7 +131,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = 0.5)
 
-<img src="renders/living-room.png" alt="Living Room"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/living-room.png" alt="Living Room"/>
 
 ## The White Room
 
@@ -143,7 +143,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: ACES (exposure = 0.5)
 
-<img src="renders/living-room-2.png" alt="Living Room 2"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/living-room-2.png" alt="Living Room 2"/>
 
 ## The Modern Living Room
 
@@ -155,7 +155,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: ACES (exposure = 0.5)
 
-<img src="renders/living-room-3.png" alt="Living Room 3"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/living-room-3.png" alt="Living Room 3"/>
 
 ## Glass of Water
 
@@ -167,7 +167,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2
 
-<img src="renders/glass-of-water.png" alt="Glass of Water"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/glass-of-water.png" alt="Glass of Water"/>
 
 ## Salle de bain
 
@@ -179,7 +179,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2 (exposure = +1)
 
-<img src="renders/bathroom2.png" alt="Salle de bain"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/bathroom2.png" alt="Salle de bain"/>
 
 
 ## Lone Monk
@@ -192,7 +192,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2 (exposure = +1)
 
-<img src="renders/lone-monk.jpg" alt="Lone Monk"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/lone-monk.jpg" alt="Lone Monk"/>
 
 
 ## Sky Texture Demo
@@ -205,4 +205,4 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 1024
 - Tonemapping: Uncharted2 (exposure = +1)
 
-<img src="renders/sky-texture-demo.png" alt="Sky Texture Demo"/>
+<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/sky-texture-demo.png" alt="Sky Texture Demo"/>
