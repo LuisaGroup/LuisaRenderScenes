@@ -1,4 +1,4 @@
-# LuisaRenderScenes
+# Scenes for LuisaRender
 
 Demo scenes for [LuisaRender](https://github.com/LuisaGroup/LuisaRender). We sincerely thank all the authors, [Rendering Resources](https://benedikt-bitterli.me/resources), [Poly Heaven](https://polyhaven.com), and [Blender Demo Files](https://download.blender.org/demo/cycles/lone-monk_cycles_and_exposure-node_demo.blend) for sharing these amazing resources.
 
