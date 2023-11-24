@@ -8,11 +8,11 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 - Credit: [Mareck](http://www.blendswap.com/users/view/Mareck) (CC0)
 - Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
-- Resolution: 1024x1024
-- Samples: 65536
+- Resolution: 1440x1440
+- Samples: 16384
 - Tonemapping: ACES (exposure = -0.5)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/bathroom.png" width="80%" alt="Bathroom"/>
+<img src="renders/bathroom.png" width="80%" alt="Bathroom"/>
 
 ## Bedroom
 
@@ -24,7 +24,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2
 
-![Bedroom](https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/bedroom.png)
+![Bedroom](renders/bedroom.png)
 
 ## Camera
 
@@ -35,7 +35,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2
 
-![Camera](https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/camera.png)
+![Camera](renders/camera.png)
 
 ## Kitchen
 
@@ -43,11 +43,11 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 - Credit: [Jay-Artist](http://www.blendswap.com/user/Jay-Artist) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0))
 - Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
-- Resolution: 1280x720
-- Samples: 65536
+- Resolution: 1920x1080
+- Samples: 16384
 - Tonemapping: ACES
 
-![Kitchen](https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/kitchen.png)
+![Kitchen](renders/kitchen.png)
 
 ## Spaceship
 
@@ -59,7 +59,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2
 
-![Kitchen](https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/spaceship.png)
+![Kitchen](renders/spaceship.png)
 
 ## Modern Hall
 
@@ -71,7 +71,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2 (exposure = +1)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/staircase2.png" width="80%" alt="Staircase2"/>
+<img src="renders/staircase2.png" width="80%" alt="Staircase2"/>
 
 ## The Wooden Staircase
 
@@ -83,7 +83,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = +0.5)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/staircase.png" width="60%" alt="Staircase"/>
+<img src="renders/staircase.png" width="60%" alt="Staircase"/>
 
 ## Coffee Maker
 
@@ -95,7 +95,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = +0.5)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/coffee.png" width="70%" alt="Coffee"/>
+<img src="renders/coffee.png" width="70%" alt="Coffee"/>
 
 ## Japanese Classroom
 
@@ -107,7 +107,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = +0.5)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/classroom.png" alt="Classroom"/>
+<img src="renders/classroom.png" alt="Classroom"/>
 
 ## The Breakfast Room
 
@@ -119,7 +119,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = +0.5)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/dining-room.png" alt="Dining Room"/>
+<img src="renders/dining-room.png" alt="Dining Room"/>
 
 ## The Grey & White Room
 
@@ -131,7 +131,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2 (exposure = +0.5)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/living-room.png" alt="Living Room"/>
+<img src="renders/living-room.png" alt="Living Room"/>
 
 ## The White Room
 
@@ -139,11 +139,11 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 - Credit: [Jay-Artist](http://www.blendswap.com/user/Jay-Artist) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
 - Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
-- Resolution: 1280x720
-- Samples: 65536
-- Tonemapping: ACES (exposure = +0.5)
+- Resolution: 1920x1080
+- Samples: 16384
+- Tonemapping: ACES (exposure = -0.5)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/living-room-2.png" alt="Living Room 2"/>
+<img src="renders/living-room-2.png" alt="Living Room 2"/>
 
 ## The Modern Living Room
 
@@ -155,7 +155,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/living-room-3.png" alt="Living Room 3"/>
+<img src="renders/living-room-3.png" alt="Living Room 3"/>
 
 ## Glass of Water
 
@@ -167,7 +167,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 16384
 - Tonemapping: Uncharted2
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/glass-of-water.png" alt="Glass of Water"/>
+<img src="renders/glass-of-water.png" alt="Glass of Water"/>
 
 ## Salle de bain
 
@@ -175,11 +175,11 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 
 - Credit: [nacimus](http://www.blendswap.com/users/view/nacimus) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
 - Converted from Tungsten version at [Rendering Resources](https://benedikt-bitterli.me/resources)
-- Resolution: 1280x720
-- Samples: 65536
-- Tonemapping: Uncharted2 (exposure = +1)
+- Resolution: 1920x1080
+- Samples: 16384
+- Tonemapping: Uncharted2
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/bathroom2.png" alt="Salle de bain"/>
+<img src="renders/bathroom2.png" alt="Salle de bain"/>
 
 
 ## Lone Monk
@@ -192,7 +192,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 65536
 - Tonemapping: Uncharted2 (exposure = +1)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/lone-monk.jpg" alt="Lone Monk"/>
+<img src="renders/lone-monk.jpg" alt="Lone Monk"/>
 
 
 ## Sky Texture Demo
@@ -205,7 +205,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 1024
 - Tonemapping: Uncharted2 (exposure = +1)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/sky-texture-demo.png" alt="Sky Texture Demo"/>
+<img src="renders/sky-texture-demo.png" alt="Sky Texture Demo"/>
 
 
 ## Bathroom Interior
@@ -217,7 +217,7 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 1024
 - Tonemapping: Uncharted2 (exposure = +0.5)
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/bathroom-interior.png" alt="Bathroom Interior"/>
+<img src="renders/bathroom-interior.png" alt="Bathroom Interior"/>
 
 ## JINX!
 
@@ -229,4 +229,4 @@ Download: [LuisaRender](https://github.com/LuisaGroup/LuisaRenderScenes/releases
 - Samples: 4096
 - Tonemapping: Uncharted2
 
-<img src="https://github.com/LuisaGroup/LuisaRenderScenes/raw/main/renders/jinx.png" alt="JINX!"/>
+<img src="renders/jinx.png" alt="JINX!"/>
